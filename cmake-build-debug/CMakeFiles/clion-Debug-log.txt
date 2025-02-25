@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Lap\CLionProjects\mpi\mpi_frecuencias -B C:\Users\Lap\CLionProjects\mpi\mpi_frecuencias\cmake-build-debug
+-- Found MPI_C: C:/Program Files (x86)/Intel/oneAPI/mpi/latest/lib/impi.lib (found version "3.1")
+-- Found MPI_CXX: C:/Program Files (x86)/Intel/oneAPI/mpi/latest/lib/impi.lib (found version "3.1")
+-- Found MPI: TRUE (found version "3.1")
+-- MPI Found
+-- MPI Include path: 3.1
+-- MPI Include path: C:/Program Files (x86)/Intel/oneAPI/mpi/latest/include;C:/Program Files (x86)/Intel/oneAPI/mpi/latest/include/mpi
+-- MPI Libraries: C:/Program Files (x86)/Intel/oneAPI/mpi/latest/lib/impi.lib;C:/Program Files (x86)/Intel/oneAPI/mpi/latest/lib/impicxx.lib
+-- MPI Include path: C:/Program Files (x86)/Intel/oneAPI/mpi/latest/bin/mpicl.bat
+-- MPI Include path: 
+-- Configuring done (7.7s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Lap/CLionProjects/mpi/mpi_frecuencias/cmake-build-debug

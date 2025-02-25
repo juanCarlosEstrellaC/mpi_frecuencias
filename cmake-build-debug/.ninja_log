@@ -1,0 +1,8 @@
+# ninja log v6
+2	2852	7621472434789159	build.ninja	97549df8573d5503
+43	987	7621472436389204	CMakeFiles/mpi_frecuencias.dir/main.cpp.obj	7cfb1e1f17d1de53
+988	1364	7621472445835466	mpi_frecuencias.exe	a9ccd28466264b6e
+3	895	7621473633373506	CMakeFiles/mpi_frecuencias.dir/main.cpp.obj	7cfb1e1f17d1de53
+896	1126	7621473642302124	mpi_frecuencias.exe	a9ccd28466264b6e
+40	1731	7621496910209597	CMakeFiles/mpi_frecuencias.dir/main.cpp.obj	7cfb1e1f17d1de53
+1732	2089	7621496927125340	mpi_frecuencias.exe	a9ccd28466264b6e
